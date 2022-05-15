@@ -1,0 +1,23 @@
+l {
+    list-style-type: square;
+    background: #3399ff;
+    padding: 15px;
+   }
+   ul li {
+    background: #cce5ff;
+    padding: 5px;
+    margin: 5px 0 0 35px;
+   }
+   ol {
+    background: red;
+    padding: 15px;
+   }
+   ol li {
+    background: white;
+    padding: 5px;
+    margin: 5px 0 0 35px;
+   }
+   .ol2 {
+    background: green;
+    padding: 15px;
+   }

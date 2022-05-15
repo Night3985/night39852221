@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Night3985.github.io1-main",
+			"path": "."
+		},
+		{
+			"name": "slick-1.8.1",
+			"path": "..\\slick-1.8.1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Night3985.github.io1-main"
+	}
+}
